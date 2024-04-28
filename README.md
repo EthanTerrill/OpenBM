@@ -1,2 +1,2 @@
 # OpenBM
-an open source biomechatronic repository 
+an open source biomechatronics repository 
