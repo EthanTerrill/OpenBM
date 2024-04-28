@@ -2,7 +2,7 @@
 an open source biomechatronics repository 
 
 
-#Advice for contributing
+# Advice for contributing
 
 
 The recommended Spice software for circuits is LTSpice
